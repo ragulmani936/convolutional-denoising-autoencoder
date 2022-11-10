@@ -109,7 +109,7 @@ plt.show()
 ### Original vs Noisy Vs Reconstructed Image
 
 
-1[output]()
+![output]()
 
 ## RESULT
 Thus we have successfully developed a convolutional autoencoder for image denoising application.
