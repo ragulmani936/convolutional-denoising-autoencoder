@@ -6,11 +6,14 @@ To develop a convolutional autoencoder for image denoising application.
 
 ## DESIGN STEPS
 
-### STEP 1:
+## STEP 1:
+Download and split the dataset into training and testing datasets
 
-### STEP 2:
+## STEP 2:
+rescale the data as that the training is made easy
 
-### STEP 3:
+## STEP 3:
+create the model for the program , in this experiment we create to networks , one for encoding and one for decoding Write your own steps
 
 
 ## PROGRAM
@@ -110,3 +113,4 @@ Include a few sample images here.
 
 
 ## RESULT
+Thus we have successfully developed a convolutional autoencoder for image denoising application.
